@@ -52,7 +52,6 @@ footer .logo_studio{
     background-color:#2e2f42;;
 }
 .stl_footer_p{
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
@@ -60,7 +59,6 @@ footer .logo_studio{
     color: #f4f4fd;
 }
 .stl_button{
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
@@ -72,8 +70,7 @@ footer .logo_studio{
 .stl_button:hover, .stl_button:focus{
     background-color: #404bbf;
 }
-.stl_h1{
-    font-family: "Roboto", sans-serif;
+.stl_h_larg{
     font-weight: 700;
     font-size: 56px;
     line-height: 107%;
@@ -81,8 +78,7 @@ footer .logo_studio{
     text-align: center;
     color: #ffffff
 }
-.stl_h2{
-    font-family: "Roboto", sans-serif;
+.stl_h2_med{
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
@@ -90,15 +86,13 @@ footer .logo_studio{
     color: #2e2f42;
 }
 .stl_sect_two_p{
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.stl_h3{
-    font-family: "Roboto", sans-serif;
+.stl_h_min{
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -107,4 +101,18 @@ footer .logo_studio{
 }
 .stl_sect_one{
 background-color: #2e2f42;
+}
+.our_team_background{
+    background-color: #f4f4fd;
+}
+.li_background{
+    background-color: #fff;
+}
+.our_team_p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
 }
