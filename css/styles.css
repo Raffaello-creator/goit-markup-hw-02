@@ -56,12 +56,10 @@ footer{
     background-color:#2e2f42;
     color: #f4f4fd;
 }
-.homelink{
-    color: #4d5ae5;
-}
 .h1accent{
     background-color: #2e2f42;
 }
+
 .homelink{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -69,7 +67,9 @@ footer{
     line-height: 117%;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4d5ae5;
 }
+
 .homelink:hover, .homelink:active{
     color: #404bbf;
 }
