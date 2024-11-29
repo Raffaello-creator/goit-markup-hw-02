@@ -78,7 +78,7 @@ footer .logo_studio{
     text-align: center;
     color: #ffffff
 }
-.stl_h2_med{
+.stl_h_med{
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
@@ -100,7 +100,7 @@ footer .logo_studio{
     color: #2e2f42; 
 }
 .stl_sect_one{
-background-color: #2e2f42;
+    background-color: #2e2f42;
 }
 .our_team_background{
     background-color: #f4f4fd;
@@ -114,5 +114,12 @@ background-color: #2e2f42;
     line-height: 150%;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #434455;
+}
+.portfolio_p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
     color: #434455;
 }
