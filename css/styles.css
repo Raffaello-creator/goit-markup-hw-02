@@ -83,6 +83,8 @@ footer .logo_studio{
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .stl_sect_two_p{
